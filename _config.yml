@@ -26,7 +26,7 @@
 
 title: Aging and Joy
 email: dolly.schwartz@gmail.com
-author: Joshua Klein
+author: Aging and Joy, LLC
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,7 +40,7 @@ author: Joshua Klein
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "(cleft) 2017-{currentYear} {author}"
+copyright: "(cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Danielle Klein is Aging and Joy LLC. We provide functional wellness and skilled
