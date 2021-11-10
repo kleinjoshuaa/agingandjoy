@@ -157,8 +157,8 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Aging and Joy"
-    subheading: "You Can. I'll Help."
+ #   heading: ""
+#   subheading: "You Can. I'll Help."
 #    banner: "Your image url"
 
 # Banner default settings
