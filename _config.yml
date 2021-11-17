@@ -174,7 +174,7 @@ banner:
 # background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
 #   height: "640px"         # Banner default height
 #   min_height: null        # Banner minium height
- heading_style: "color: 5C0AE1"     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
+ heading_style: "color: rgb(92,10,255); font-family: cursive"     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 # Excerpt size setting
