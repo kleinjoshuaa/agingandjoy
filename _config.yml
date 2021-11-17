@@ -110,7 +110,7 @@ yat:
 # theme_color: snowwhite
 #
 # Custom color as below:
-theme_color: "#FEFBEA"
+theme_color: "rgba(92,10,255)"
 
 # You can choose a brand color
 # Default brand colors as below:
