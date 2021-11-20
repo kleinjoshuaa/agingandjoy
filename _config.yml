@@ -111,6 +111,7 @@ yat:
 #
 # Custom color as below:
 #theme_color: "rgb(92,10,255)"
+theme_color: "#FEFBEA"
 
 # You can choose a brand color
 # Default brand colors as below:
@@ -121,7 +122,7 @@ yat:
 # brand_color: orangered
 #
 # Custom color as below:
-brand_color: "rgb(92,10,255)"
+#brand_color: "rgb(92,10,255)"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
