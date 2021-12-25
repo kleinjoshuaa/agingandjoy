@@ -202,9 +202,14 @@ markdown: kramdown
 kmarkdown:
   input: GFM
 
+google:
+  tag_manager:
+    container_id: GTM-5C69JVL
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+  - jekyll-google-tag-manager
