@@ -1,0 +1,41 @@
+email:
+  id: 'hello@agingandjoy.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+# rss:
+#   id: '' # Leave this property empty
+#   href: '/feed.xml'
+#   title: 'RSS'
+#   fa-icon: 'fa-rss-square'
+
+facebook:
+  id: 'Aging-and-Joy-Services-LLC-104186015471507'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+# instagram:
+#   id: 'your-instagram-username'
+#   href: 'https://www.instagram.com/'
+#   title: 'Instagram'
+#   fa-icon: 'fa-instagram'
+
+# twitter:
+#   id: 'your-twitter-name'
+#   href: 'https://www.twitter.com/'
+#   title: 'Twitter'
+#   fa-icon: 'fa-twitter-square'
+
+linkedin:
+  id: '/in/danielle-klein-0aa63a58'
+  href: 'https://www.linkedin.com/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
+# github:
+#   id: 'your-github-name'
+#   href: 'https://github.com/'
+#   title: 'GitHub'
+#   fa-icon: 'fa-github-square'

@@ -14,6 +14,15 @@
       <div>{{ copyright }}</div>
       <div>Schedule a Consultation by <!-- phone <a href="tel:5551212">555-1212</a> or --> email <a href="mailto:hello@agingandjoy.com">hello@agingandjoy.com</a>.</div>
       <div>Aging and Joy Services, LLC does functional wellness and skilled Occupational Therapy in your home and community</div>
+      <div class="social-media">
+        {% assign sm = site.data.social-media %}
+        {% for entry in sm %}
+            {% assign key = entry | first %}
+            {% if sm[key].id %}
+                <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
+            {% endif %}
+        {% endfor %}
+      </div>
     </div>
   </div>
 </footer>

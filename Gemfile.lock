@@ -100,6 +100,7 @@ DEPENDENCIES
   bundler (>= 1.6, < 3.0)
   jekyll-google-tag-manager
   jekyll-theme-yat!
+  mini_portile2
   rake (>= 12.0, < 13.0)
 
 BUNDLED WITH
